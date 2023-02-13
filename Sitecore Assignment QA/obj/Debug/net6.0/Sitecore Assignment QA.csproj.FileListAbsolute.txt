@@ -1,0 +1,21 @@
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Sitecore Assignment QA.exe
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Sitecore Assignment QA.deps.json
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Sitecore Assignment QA.runtimeconfig.json
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Sitecore Assignment QA.dll
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Sitecore Assignment QA.pdb
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\bin\Debug\net6.0\WebDriver.dll
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.AssemblyInfo.cs
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.csproj.CopyComplete
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.dll
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\refint\Sitecore Assignment QA.dll
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.pdb
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\Sitecore Assignment QA.genruntimeconfig.cache
+C:\Users\pc\source\repos\Sitecore Assignment QA\Sitecore Assignment QA\obj\Debug\net6.0\ref\Sitecore Assignment QA.dll

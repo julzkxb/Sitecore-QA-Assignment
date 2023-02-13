@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6do2dI6LqnJ+Iilog6z6LClZhjhBq0XbU6roUVMuDxcrpsOxhwex6Ozo5x9q+mFEVkr8mbiFbq2GBhfkGeivCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Sitecore Assignment QA\\Sitecore Assignment QA\\Sitecore Assignment QA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.webdriver\\4.8.0\\selenium.webdriver.4.8.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
+  ],
+  "logs": []
+}
